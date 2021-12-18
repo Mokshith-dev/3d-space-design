@@ -1,0 +1,23 @@
+.home-picture {
+  height: 100%;
+  width: 750px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 6%;
+  left: 28%;
+}
+
+@media (min-width: 1600px) {
+  .home-picture {
+    height: 100%;
+    width: 1108px;
+    /* background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute; */
+    top: 7%;
+    left: 23%;
+  }
+}
