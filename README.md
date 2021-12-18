@@ -6,7 +6,7 @@ Hosted link:
 
 ## UI Created:
 
-![3d space Design](src\images\3d-space-design.PNG)
+![3d space Design](src/images/3d-space-design.PNG)
 
 #### `(1600x900)`
 
