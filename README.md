@@ -8,7 +8,7 @@ Hosted link:
 
 ![3d space Design](src/images/3d-space-design.PNG)
 
-#### `(1600x900)`
+#### Screenshot taken in this resolution `(1600x900)`
 
 ## clone the repo and run the following commands, to run in your local
 
