@@ -1,6 +1,6 @@
 #### [Design link](https://www.figma.com/file/hDcipE9zMuiDsYAkjcQuKw/Space?node-id=0%3A1)
 
-#### [Hosted Link](https://wonderful-ptolemy-454e34.netlify.app/)
+#### [Hosted Link](https://3d-space-design.netlify.app/)
 
 ## UI Created:
 
